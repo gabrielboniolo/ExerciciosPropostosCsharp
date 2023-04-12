@@ -1,0 +1,15 @@
+C:\Users\gabri\OneDrive\Área de Trabalho\Programação\C#  Udemy\Lógica de Programação\Projetos\Exercícios Propostos\Ex1004\obj\Debug\net6.0\Ex1004.csproj.AssemblyReference.cache
+C:\Users\gabri\OneDrive\Área de Trabalho\Programação\C#  Udemy\Lógica de Programação\Projetos\Exercícios Propostos\Ex1004\obj\Debug\net6.0\Ex1004.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\OneDrive\Área de Trabalho\Programação\C#  Udemy\Lógica de Programação\Projetos\Exercícios Propostos\Ex1004\obj\Debug\net6.0\Ex1004.AssemblyInfoInputs.cache
+C:\Users\gabri\OneDrive\Área de Trabalho\Programação\C#  Udemy\Lógica de Programação\Projetos\Exercícios Propostos\Ex1004\obj\Debug\net6.0\Ex1004.AssemblyInfo.cs
+C:\Users\gabri\OneDrive\Área de Trabalho\Programação\C#  Udemy\Lógica de Programação\Projetos\Exercícios Propostos\Ex1004\obj\Debug\net6.0\Ex1004.csproj.CoreCompileInputs.cache
+C:\Users\gabri\OneDrive\Área de Trabalho\Programação\C#  Udemy\Lógica de Programação\Projetos\Exercícios Propostos\Ex1004\bin\Debug\net6.0\Ex1004.exe
+C:\Users\gabri\OneDrive\Área de Trabalho\Programação\C#  Udemy\Lógica de Programação\Projetos\Exercícios Propostos\Ex1004\bin\Debug\net6.0\Ex1004.deps.json
+C:\Users\gabri\OneDrive\Área de Trabalho\Programação\C#  Udemy\Lógica de Programação\Projetos\Exercícios Propostos\Ex1004\bin\Debug\net6.0\Ex1004.runtimeconfig.json
+C:\Users\gabri\OneDrive\Área de Trabalho\Programação\C#  Udemy\Lógica de Programação\Projetos\Exercícios Propostos\Ex1004\bin\Debug\net6.0\Ex1004.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\Programação\C#  Udemy\Lógica de Programação\Projetos\Exercícios Propostos\Ex1004\bin\Debug\net6.0\Ex1004.pdb
+C:\Users\gabri\OneDrive\Área de Trabalho\Programação\C#  Udemy\Lógica de Programação\Projetos\Exercícios Propostos\Ex1004\obj\Debug\net6.0\Ex1004.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\Programação\C#  Udemy\Lógica de Programação\Projetos\Exercícios Propostos\Ex1004\obj\Debug\net6.0\refint\Ex1004.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\Programação\C#  Udemy\Lógica de Programação\Projetos\Exercícios Propostos\Ex1004\obj\Debug\net6.0\Ex1004.pdb
+C:\Users\gabri\OneDrive\Área de Trabalho\Programação\C#  Udemy\Lógica de Programação\Projetos\Exercícios Propostos\Ex1004\obj\Debug\net6.0\Ex1004.genruntimeconfig.cache
+C:\Users\gabri\OneDrive\Área de Trabalho\Programação\C#  Udemy\Lógica de Programação\Projetos\Exercícios Propostos\Ex1004\obj\Debug\net6.0\ref\Ex1004.dll
