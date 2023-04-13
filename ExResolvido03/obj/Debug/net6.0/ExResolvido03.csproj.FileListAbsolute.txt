@@ -1,0 +1,15 @@
+C:\Users\gabri\OneDrive\Área de Trabalho\Programação\C#  Udemy\Lógica de Programação\Projetos\Exercícios Propostos\ExResolvido03\bin\Debug\net6.0\ExResolvido03.exe
+C:\Users\gabri\OneDrive\Área de Trabalho\Programação\C#  Udemy\Lógica de Programação\Projetos\Exercícios Propostos\ExResolvido03\bin\Debug\net6.0\ExResolvido03.deps.json
+C:\Users\gabri\OneDrive\Área de Trabalho\Programação\C#  Udemy\Lógica de Programação\Projetos\Exercícios Propostos\ExResolvido03\bin\Debug\net6.0\ExResolvido03.runtimeconfig.json
+C:\Users\gabri\OneDrive\Área de Trabalho\Programação\C#  Udemy\Lógica de Programação\Projetos\Exercícios Propostos\ExResolvido03\bin\Debug\net6.0\ExResolvido03.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\Programação\C#  Udemy\Lógica de Programação\Projetos\Exercícios Propostos\ExResolvido03\bin\Debug\net6.0\ExResolvido03.pdb
+C:\Users\gabri\OneDrive\Área de Trabalho\Programação\C#  Udemy\Lógica de Programação\Projetos\Exercícios Propostos\ExResolvido03\obj\Debug\net6.0\ExResolvido03.csproj.AssemblyReference.cache
+C:\Users\gabri\OneDrive\Área de Trabalho\Programação\C#  Udemy\Lógica de Programação\Projetos\Exercícios Propostos\ExResolvido03\obj\Debug\net6.0\ExResolvido03.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\OneDrive\Área de Trabalho\Programação\C#  Udemy\Lógica de Programação\Projetos\Exercícios Propostos\ExResolvido03\obj\Debug\net6.0\ExResolvido03.AssemblyInfoInputs.cache
+C:\Users\gabri\OneDrive\Área de Trabalho\Programação\C#  Udemy\Lógica de Programação\Projetos\Exercícios Propostos\ExResolvido03\obj\Debug\net6.0\ExResolvido03.AssemblyInfo.cs
+C:\Users\gabri\OneDrive\Área de Trabalho\Programação\C#  Udemy\Lógica de Programação\Projetos\Exercícios Propostos\ExResolvido03\obj\Debug\net6.0\ExResolvido03.csproj.CoreCompileInputs.cache
+C:\Users\gabri\OneDrive\Área de Trabalho\Programação\C#  Udemy\Lógica de Programação\Projetos\Exercícios Propostos\ExResolvido03\obj\Debug\net6.0\ExResolvido03.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\Programação\C#  Udemy\Lógica de Programação\Projetos\Exercícios Propostos\ExResolvido03\obj\Debug\net6.0\refint\ExResolvido03.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\Programação\C#  Udemy\Lógica de Programação\Projetos\Exercícios Propostos\ExResolvido03\obj\Debug\net6.0\ExResolvido03.pdb
+C:\Users\gabri\OneDrive\Área de Trabalho\Programação\C#  Udemy\Lógica de Programação\Projetos\Exercícios Propostos\ExResolvido03\obj\Debug\net6.0\ExResolvido03.genruntimeconfig.cache
+C:\Users\gabri\OneDrive\Área de Trabalho\Programação\C#  Udemy\Lógica de Programação\Projetos\Exercícios Propostos\ExResolvido03\obj\Debug\net6.0\ref\ExResolvido03.dll
